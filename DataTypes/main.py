@@ -1,0 +1,8 @@
+print "int:", type(5)
+print type(2.5)
+print type("D")
+print type("Denisse")
+print type(True)
+print type([])
+print "this is the number: " + str(5) 
+print "this is a sum: " + str(3 + 2)
