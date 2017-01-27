@@ -15,6 +15,7 @@ int main(int argc, char **argv) {
     printf( "a - b = %f \n", a - b);
     printf( "a * b = %f \n", a * b);
     printf( "a / b = %f \n", a / b);
+    printf( "a / b = %d \n", (int)a / (int)b);
     printf( " a module b = %d \n", (int)a % (int)b);
     return 0;
 }
